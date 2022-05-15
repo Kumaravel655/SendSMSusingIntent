@@ -1,5 +1,5 @@
 
-### Ex.No:4 
+### Ex.No:04 
 ### DATE: 
 # <p align="center"> SMS using Intent.</p>
  
